@@ -34,6 +34,7 @@
 </template>
 
 <script>
+// import bus from '../utils/eventBus'
 export default {
   name: 'HelloWorld',
   props: {
