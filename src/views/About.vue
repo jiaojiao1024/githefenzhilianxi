@@ -45,7 +45,7 @@ export default {
       add: 'increatem' // 将 `this.add()` 映射为 `this.$store.commit('increment')`
     }),
     git(){
-      console.log("wo是学习的人啊！加油赚钱sdsdfsdfsdf！")
+      console.log("wo是学习的人啊！加油赚钱啊！")
     }
   }
 }
